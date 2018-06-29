@@ -1,0 +1,2 @@
+The App called quiz app enables you to answer a multiple, single and text question. on clicking the submit button, your score is displayed.here is the link to the app.proudly sponsored by Google and supported by Andela.
+https://drive.google.com/open?id=11YQ5yd1OP3kriDHiKs-tMIldx5ZIRQab
